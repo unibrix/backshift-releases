@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Backshift</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Wed, 25 Nov 2026 17:02:29 +0200</pubDate>
+            <link>https://github.com/unibrix/backshift-releases</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Automatic updates** with Sparkle 2. Backshift asks on its second launch whether it may check for updates; Settings → About has the switch and "Check for Updates…". An update found in the background is offered in the menu-bar panel, not in a window over your work.
+- The update check is the only network connection Backshift makes; nothing about you or your typing is sent. Organizations can turn it off with the managed key `SUEnableAutomaticChecks`, or deploy the offline build (`OFFLINE=1`), which has no networking code.
+- Versions before 0.3.0 have no updater: install this one by hand once.
+]]></description>
+            <enclosure url="https://github.com/unibrix/backshift-releases/releases/download/v0.3.0/Backshift-0.3.0.dmg" length="9194804" type="application/octet-stream" sparkle:edSignature="9CSGPmOmHmlkTr+lBwnEGsCiW53ovpIxlmyCE7nySNktKhexNlZHAhqPVmoqXphktnix5wEZTSulaZMefwBgAw=="/>
+        </item>
+    </channel>
+</rss>
