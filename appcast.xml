@@ -3,6 +3,24 @@
     <channel>
         <title>Backshift</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Thu, 26 Nov 2026 14:08:49 +0200</pubDate>
+            <link>https://github.com/unibrix/backshift-releases</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Smarter layout memory**: a chat keeps the layout most of its recent words were in, so one foreign word does not flip it; a chat written in two languages is left alone.
+- **The chat helps fix words**: the layout a chat is usually typed in counts as evidence — more wrong-layout words are fixed (87.8 % against 86.8 % on the test set, precision unchanged), and Russian or Ukrainian is chosen by the language of the chat.
+- **Always one layout in an app**: "Always ABC" (or any enabled layout) in the menu-bar panel and Settings → Apps.
+- **Safari's address field** starts in Latin and is remembered apart from the tab.
+- **Statistics** show how often the layout was chosen for you.
+- **Copy Diagnostics** and **Report a Problem…** in Settings → About — counts and settings only.
+- **Shortcuts for transliteration, case and the copied text** — off until turned on in Settings → General.
+- The rules for Telegram, WhatsApp, Signal, Messages and Notes are now a data file.
+]]></description>
+            <enclosure url="https://github.com/unibrix/backshift-releases/releases/download/v0.4.0/Backshift-0.4.0.dmg" length="9353553" type="application/octet-stream" sparkle:edSignature="jrzet4LMp6ru5t0vOmMQWsZEvI0oyxE1sY/JLwh6vAGQfBtATT3vNxBm3e2TqgbUqcGqODOalpWK14nhXY6iDg=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Wed, 25 Nov 2026 17:02:29 +0200</pubDate>
             <link>https://github.com/unibrix/backshift-releases</link>
